@@ -1,9 +1,9 @@
-# ** Shkliaryk Mikalai**
+# **Shkliaryk Mikalai**
 ### **Contacts**
 * ##### **Location :** Minsk, Belarus
 * ##### **Phone :** +375333274314
 * ##### **Email :** snov.nikolya@mail.ru
-* ##### GitHub :** kolik1990
+* ##### **GitHub :** kolik1990
 ### **About Me**
 *I want to learn Front-End Development at RSSchool! I have never studied programming before.*
 ### **Skills**
@@ -14,9 +14,7 @@
 ### **Code Example**
 ```
 function multiply(a, b){
-
-return a * b;
-  
+return a * b;  
 }
 ```
 ### **Experience**
